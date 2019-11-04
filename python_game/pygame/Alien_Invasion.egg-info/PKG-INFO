@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
-Name: pygame
-Version: 0.0.1.dev7
+Name: Alien-Invasion
+Version: 0.0.0
 Summary: UNKNOWN
 Home-page: https://github.com/pavel-malin/python_crash_course/tree/master/python_game
 Author: pavel-malin
@@ -21,4 +21,8 @@ Description:
         If there is any other suggestion for consideration or explanation on the
         example of something to show you the work, then contact us and see what and
         how to find out options, I think we will be able to figure it out.
+        
+        
+        All code tests will be done soon.
+        
 Platform: UNKNOWN

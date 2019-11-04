@@ -1,5 +1,7 @@
+from setuptools.config import read_configuration
 from setuptools import setup
-import pbr
 
 
-setup(setup_requires=['pbr'], pbr=True)
+conf_dir = read_configuration('setup.cfg')
+
+setup()

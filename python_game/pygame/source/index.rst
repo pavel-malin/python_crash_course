@@ -6,11 +6,27 @@
 Welcome to pygame's documentation!
 ==================================
 
+.. title:: Using the pygame library
+
+.. platform: (Linux)
+
+.. correntmodule:: sphinx
+.. autosummary::
+   
+   environment.BuildEnvironment
+   util.relative_url
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
+.. highlight:: python
 
+.. sectionauthor:: pavel-malin <kurchevskijpavel@gmail.com>
+
+.. index::
+   module: sys, os, pygame
+
+.. py:currentmodule:: game_functions.py
 
 Indices and tables
 ==================
