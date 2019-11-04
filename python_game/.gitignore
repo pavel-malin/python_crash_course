@@ -1,7 +1,7 @@
 __pycache__/
 .vscode/
 myvenv/
-pygame/build/
-pygame/source/
-make.bat
-Makefile
+pygame/build
+pygame/source
+pygame/make.bat
+pygame/Makefile
